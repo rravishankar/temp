@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+body {
+	color: black;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+}
+allproducts
+{
+background-color: #ffffff;
+	color: #000000;
+	font-size: 24pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+width: 100%;
+}
+allproducts:before {content: 'HTR Product Database';}
+
+products
+{
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+}
+series
+{
+	color: #0000FF;
+	font-size: 20pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+type
+{
+	color: #0000FF;
+	font-size: 18pt;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+pdfname, variants, housing_types, mounting_cfg, power_rating_resist, tolerance, packaging, features
+{
+	display: block;
+	color: #000000;
+	margin-left: 20pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+
+}
+power_rating {
+	display: inline-block;
+	color: #0000FF;
+	margin-left: 20pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;		
+}
+res_from {
+	display: inline-block;
+	margin-left: 10pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;		
+}
+mounting_cfg:before {content: 'Mounting(s): ';}
+variants:before {content: 'Varirant(s): ';}
+housing_types:before {content: 'Housing type(s): ';}
+power_rating_resist:before {content: 'Power rating (Watt) followed by Resistance value (range): ';}
+tolerance:before {content: 'Tolerance: ';}
+packaging:before {content: 'Packaging: ';}
+features:before {content: 'Features: ';}
+
+</xsl:stylesheet>

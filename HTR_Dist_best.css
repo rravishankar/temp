@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+body {
+	color: black;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+}
+alldbs
+{
+background-color: #ffffff;
+	color: #000000;
+	font-size: 24pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+width: 100%;
+}
+alldbs:before {content: 'HTR Distributor Database';}
+
+text, value
+{
+	display: none;	
+}
+
+
+worldwide
+{
+	display: block;
+	margin-top: 30pt;
+	margin-left: 0;
+}
+distributors
+{
+	display: block;
+	color: #0000FF;
+	margin-top: 15pt;
+	margin-left:10pt;
+	font-size: 20pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+type
+{
+	color: #0000FF;
+	font-size: 18pt;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+name, address, state, country, zip, phone, fax, email
+{
+	display: block;
+	color: #000000;
+	margin-left: 30pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+
+}
+
+map
+{
+	display: block;
+	color: #ffff00;
+	margin-left: 30pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+}
+
+
+
+name:before {
+	content: 'Distributor Name: ';
+}
+address:before {
+	content: 'Address: ';
+}
+state:before {
+	content: 'State: ';
+}
+country:before {
+	content: 'Country: ';
+}
+zip:before {
+	content: 'Zip: ';
+}
+
+phone:before {
+	content: 'Phone: ';
+}
+fax:before {
+	content: 'Fax: ';
+}
+email:before {
+	content: 'Email: ';
+}
+map:before {
+	content: 'Map: ';
+}
+
+
+
+</xsl:stylesheet>

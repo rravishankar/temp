@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="HTR_Dist_best.css"?>
+   <alldbs>
+		<worldwide>
+		<country>Australia</country>
+		<distributors>
+			<name>Arrow Electronics</name>
+			<address>14 Nicole Close, Bayswater - Victoria</address>
+			<state>null</state>
+			<country>Australia</country>
+			<zip>3153</zip>
+			<phone>+61-397374900</phone>
+			<fax>null</fax>
+			<email>sales.anz@arrowasia.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Austria</country>
+		<distributors>
+			<name>AEK Gmbh</name>
+			<address>Maxglaner Haupt str. 70,5020 Salzburg</address>
+			<state>null</state>
+			<country>Austria</country>
+			<zip>null</zip>
+			<phone>+43-662-830810</phone>
+			<fax>null</fax>
+			<email>office@aek.at</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Belgium</country>
+		<distributors>
+			<name>Heynen NV</name>
+			<address>Centrum-Zuid 3047-B-3530, Houthalen</address>
+			<state>null</state>
+			<country>Belgium</country>
+			<zip>null</zip>
+			<phone>+32-1160-0910</phone>
+			<fax>null</fax>
+			<email>johan.de.ceuster@heynen.be</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>China</country>
+		<distributors>
+			<name>IBS Technology Shenzhen Ltd.</name>
+			<address>Room 3705, 37/F, International Science and Technology Building, 3007, Shen Nan Road, Shenzhen</address>
+			<state>null</state>
+			<country>China</country>
+			<zip>518033</zip>
+			<phone>+86-755-8221-0037</phone>
+			<fax>null</fax>
+			<email>salescn@ibselectronics.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Finland</country>
+		<distributors>
+			<name>OY Nylund - Group AB</name>
+			<address>Nylund Group Masalantie, 375, 02430 MASALA</address>
+			<state>null</state>
+			<country>Finland</country>
+			<zip>null</zip>
+			<phone>+358-9-2219-1400</phone>
+			<fax>null</fax>
+			<email>electronics@nylund.fi</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Germany</country>
+		<distributors>
+			<name>WDI AG</name>
+			<address>Industriestrasse 25A Industriezentrum, Wedel (Holstein)</address>
+			<state>null</state>
+			<country>Germany</country>
+			<zip>D-22880</zip>
+			<phone>+49-4103-1800-152</phone>
+			<fax>null</fax>
+			<email>sales@wdi.ag</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Weltron Elektronik GmbH</name>
+			<address>Sommerauer Str. 11, Feuchtwangen</address>
+			<state>null</state>
+			<country>Germany</country>
+			<zip>D-91555</zip>
+			<phone>+49-9852-6727-12</phone>
+			<fax>null</fax>
+			<email>info@weltron.de</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Hongkong (China)</country>
+		<distributors>
+			<name>IBS Tech Int’l HK Ltd.</name>
+			<address>Unit C, 5/F, Mai On Industrial Building, 17-21, Kung Yip Street, Kawi Chung, NT</address>
+			<state>null</state>
+			<country>Hongkong (China)</country>
+			<zip>null</zip>
+			<phone>+852-2947-0009</phone>
+			<fax>null</fax>
+			<email>saleshk@ibselectronics.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>India</country>
+		<distributors>
+			<name>Vam Electronics</name>
+			<address>Shop No. 1 &amp; 2, 1690, Sunder Bhawan, Bhagirath Palace</address>
+			<state>Delhi</state>
+			<country>India</country>
+			<zip>110 006</zip>
+			<phone>+91-11-23868159</phone>
+			<fax>+91-11-23868459</fax>
+			<email>vam.electronics@yahoo.co.in, enquiry@vamelectronics.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Electrodeal</name>
+			<address>202, 203, Fatehsagar Complex, Opp. Convent School, Fatehganj, Vadodara</address>
+			<state>Gujarat</state>
+			<country>India</country>
+			<zip>390 002</zip>
+			<phone>+91-265-3013099, +91-265-2793344</phone>
+			<fax>+91-265-2786677</fax>
+			<email>respond@electrodeal.com, sanjayvelani@electrodeal.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Swift Electrocomp Solutions (P) Ltd.</name>
+			<address># 681/99, 6th Main Road, Vijayanagar, Bengaluru</address>
+			<state>Karnataka</state>
+			<country>India</country>
+			<zip>560 040</zip>
+			<phone>+91-80-23406770, +91-80-23406774</phone>
+			<fax>null</fax>
+			<email>sales@swiftelectrocomp.in, vishwanath@swiftelectrocomp.in</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Roni Electronics</name>
+			<address>#40/5884 C &amp; D, AVS Building, M G Road, Ernakulam, Kochi</address>
+			<state>Kerala</state>
+			<country>India</country>
+			<zip>682 035</zip>
+			<phone>+91-484-2355029, +91-484-2369926</phone>
+			<fax>+91-484-2352928</fax>
+			<email>roni@sify.com, roy@ronielectronics.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Electromark Technologies</name>
+			<address>12A, Hanuman Terrace Building, 1st Floor, Behind Bombay Biscuits, Tara Temple Lane, Grant Road, Mumbai</address>
+			<state>Maharashtra</state>
+			<country>India</country>
+			<zip>400 007</zip>
+			<phone>+91-22-23820454, +91-22-23820455, +91-22-23820456</phone>
+			<fax>null</fax>
+			<email>mahavir@electromarkindia.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Multitek Electro Devices</name>
+			<address>167, Above Apeksha Palace, Pune-Saswad Road, Phursungi Fata, Pune</address>
+			<state>Maharashtra</state>
+			<country>India</country>
+			<zip>412 308</zip>
+			<phone>+91-20-26860032, +91-9923391582</phone>
+			<fax>+91-20-26860032</fax>
+			<email>shahkumar@vsnl.net, multitekdevices@gmail.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Ramesh Electronics</name>
+			<address>New Hanuman Building, Shop No. 8, 16, Shyamrao Vithal Marg, Lamington Road, (P.O. Kiln Lane), Mumbai</address>
+			<state>Maharashtra</state>
+			<country>India</country>
+			<zip>400 007</zip>
+			<phone>+91-22-2388-5701, +91-22-2387-5720</phone>
+			<fax>+91-22-2385-0711, +91-22-2385-1624</fax>
+			<email>rameshelectronics9@yahoo.co.in</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Elektronika Sales Private Ltd.</name>
+			<address>16, Narsingpuram Street, Mount Road, Chennai</address>
+			<state>Tamil Nadu</state>
+			<country>India</country>
+			<zip>600 002</zip>
+			<phone>+91-44-2858-7165, +91-442858-7765</phone>
+			<fax>+91-44-2841-9833</fax>
+			<email>info@elektronikasales.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Indian Electronics</name>
+			<address>6, Madan Street, Kolkata</address>
+			<state>West Bengal</state>
+			<country>India</country>
+			<zip>700 072</zip>
+			<phone>+91-33-22127548, +91-9831232412</phone>
+			<fax>+91-33-22126385</fax>
+			<email>indianelec1974@gmail.com, wasimul2006@yahoo.co.in</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>National Electronics Corporation</name>
+			<address>3, Chandni Approach, 1st Floor, Room No - 2 &amp; 3, Kolkata</address>
+			<state>West Bengal</state>
+			<country>India</country>
+			<zip>700 072</zip>
+			<phone>+91-33-2212-4066, +91-9831003907</phone>
+			<fax>+91-33-2212-4062</fax>
+			<email>necorpn@yahoo.com, nec_cal_haque@vsnl.net</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Israel</country>
+		<distributors>
+			<name>Trust Electronics Ltd.</name>
+			<address>43, Haatzmaut Way, St. Yehud, P.O. Box : 2800, Yehud</address>
+			<state>null</state>
+			<country>Israel</country>
+			<zip>56302</zip>
+			<phone>+97-23-6322566</phone>
+			<fax>null</fax>
+			<email>dov@trust-electronics.com, benny@trust-electronics.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Italy</country>
+		<distributors>
+			<name>MOS SRL</name>
+			<address>Via San Martino, 1 20834 Nova Milanese (MZ) MI</address>
+			<state>null</state>
+			<country>Italy</country>
+			<zip>1</zip>
+			<phone>+39-362-364615</phone>
+			<fax>null</fax>
+			<email>acquisti@mossrl.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Korea (South)</country>
+		<distributors>
+			<name>Suyu Electronics International Trading</name>
+			<address>#408, Woolim W-city, Sampyeong-dong, Bundang-gu, Seongnam-city, Gyeonggi-do</address>
+			<state>null</state>
+			<country>Korea (South)</country>
+			<zip>463-400</zip>
+			<phone>+82-31-628-7820, +82-10-9458-5256</phone>
+			<fax>+82-31-628-7826</fax>
+			<email>gerrardlee@su-yu.co.kr</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Malaysia</country>
+		<distributors>
+			<name>Acumen Components Sdn Bhd</name>
+			<address>155, Jalan Kikik, Taman Inderawasih, 13600 Perai, Pulau Pinang</address>
+			<state>null</state>
+			<country>Malaysia</country>
+			<zip>null</zip>
+			<phone>+60-4-3997713</phone>
+			<fax>null</fax>
+			<email>cp.ng@acumen.my</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Netherlands</country>
+		<distributors>
+			<name>Heynen BV</name>
+			<address>P.O. Box 10, NL-6590 AA Gennep</address>
+			<state>null</state>
+			<country>Netherlands</country>
+			<zip>null</zip>
+			<phone>+31-485-550937</phone>
+			<fax>null</fax>
+			<email>heynen@heynen.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>New Zealand</country>
+		<distributors>
+			<name>Arrow Electronics</name>
+			<address>Suite 3, Level 1, 12-18 Moorhouse Ave, Christchurch</address>
+			<state>null</state>
+			<country>New Zealand</country>
+			<zip>null</zip>
+			<phone>+64-927-22520, +64-213-28850</phone>
+			<fax>null</fax>
+			<email>john.gillon@ arrowasia.com, sales.anz@arrowasia.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Philippines</country>
+		<distributors>
+			<name>IBS Electronics Inc</name>
+			<address>Unit 308, ALPAP II Building, Trade St. Corner Investment Drive, Madrigal Business Park, Ayala-Alabang, Muntinlupacity</address>
+			<state>null</state>
+			<country>Philippines</country>
+			<zip>1770</zip>
+			<phone>+632-807-6927</phone>
+			<fax>null</fax>
+			<email>salesph@ibselectronics.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>South Africa</country>
+		<distributors>
+			<name>Hi-Q Electronics Pty Ltd</name>
+			<address>Bartlett Lake Office Park, Unit 8, Cnr. Trichardt &amp; Leith Road, Bartlett, Boksburg</address>
+			<state>null</state>
+			<country>South Africa</country>
+			<zip>null</zip>
+			<phone>+27-11-894-8083</phone>
+			<fax>null</fax>
+			<email>sales@hi-q.co.za</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Hi-Q Electronics Pty Ltd.</name>
+			<address>Syfin House, 2nd floor, Fairway Close, Ni - City / Parow, 7463, Cape Town</address>
+			<state>null</state>
+			<country>South Africa</country>
+			<zip>null</zip>
+			<phone>+27-21-595-1307</phone>
+			<fax>null</fax>
+			<email>sales@hi-q.co.za</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Spain</country>
+		<distributors>
+			<name>Aldinet Group</name>
+			<address>Pol. Ind. Jose Ma Korta Parcela A6,Nave  220750 Zumaia</address>
+			<state>Gipuzkoa</state>
+			<country>Spain</country>
+			<zip>null</zip>
+			<phone>+34-943-805-420</phone>
+			<fax>null</fax>
+			<email>aldinet@aldinet.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Sweden</country>
+		<distributors>
+			<name>TS Connect AB</name>
+			<address>Polygonvagen 93, 187 66 TABYFågelsångsvägen 20, 186 42 Vallentuna</address>
+			<state>null</state>
+			<country>Sweden</country>
+			<zip>null</zip>
+			<phone>+46-732-02-1396</phone>
+			<fax>null</fax>
+			<email>larsthelin@tsconnect.se</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Switzerland</country>
+		<distributors>
+			<name>Vibratec AG</name>
+			<address>Industries trasse 21, CH-5507, Mellingen</address>
+			<state>null</state>
+			<country>Switzerland</country>
+			<zip>null</zip>
+			<phone>+41-56-481-77-77</phone>
+			<fax>null</fax>
+			<email>info@vibratec.ch</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Turkey</country>
+		<distributors>
+			<name>Can Ticaret Ve Electronik San. Ltd. Sti.</name>
+			<address>Kemankes Mah. Mumhane Cad.Ikizler Is Hani No : 42 Kat : 3 Karakoy</address>
+			<state>null</state>
+			<country>Turkey</country>
+			<zip>34425</zip>
+			<phone>+90-212-244-46-48</phone>
+			<fax>null</fax>
+			<email>info@canticaret.net</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>UK</country>
+		<distributors>
+			<name>Distributed Micro Technology Ltd.</name>
+			<address>The Old Bakery, 265 Yorktown Road, College Town, Sandhurst Berkshire, England</address>
+			<state>null</state>
+			<country>UK</country>
+			<zip>GU 47 0QA</zip>
+			<phone>+44-1276-33391</phone>
+			<fax>null</fax>
+			<email>sales@dmtl.co.uk, info@dmtl.co.uk</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>Eurocap International Ltd.</name>
+			<address>138, High Street, Cheshunt, Herts, England</address>
+			<state>null</state>
+			<country>UK</country>
+			<zip>EN8 0AP</zip>
+			<phone>+44-1992-625407</phone>
+			<fax>null</fax>
+			<email>eurocap@dial.pipex.com</email>
+			<map>null</map>
+		</distributors>
+		<distributors>
+			<name>VTM (UK) Ltd.</name>
+			<address>Irvin House, Icknield Way, Letchworth Garden City Hertfordshire, England</address>
+			<state>null</state>
+			<country>UK</country>
+			<zip>SG6 1EF</zip>
+			<phone>+44-1462-473820</phone>
+			<fax>null</fax>
+			<email>sales@vtm.co.uk</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>Ukraine</country>
+		<distributors>
+			<name>Integral Ltd.</name>
+			<address>28, Tekstylna Street, Ternopil</address>
+			<state>null</state>
+			<country>Ukraine</country>
+			<zip>46010</zip>
+			<phone>+380-352-261955</phone>
+			<fax>null</fax>
+			<email>123@integral.te.ua</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	<worldwide>
+		<country>USA</country>
+		<distributors>
+			<name>IBS Electronics, Inc.</name>
+			<address>3506-W,Lake Centre Drive, Santa Ana</address>
+			<state>CA</state>
+			<country>USA</country>
+			<zip>92704-6985</zip>
+			<phone>+1-714-513-5343, +1-714-751-6633</phone>
+			<fax>null</fax>
+			<email>sales@ibselectronics.com</email>
+			<map>null</map>
+		</distributors>
+	</worldwide>
+	
+
+	
+</alldbs>

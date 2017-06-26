@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+body {
+	color: black;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+}
+allcompetitors
+{
+background-color: #ffffff;
+	color: #000000;
+	font-size: 24pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+width: 100%;
+}
+allcompetitors:before {content: 'HTR Cross Reference Database';}
+
+text, value
+{
+	display: none;	
+}
+
+
+manufacturer
+{
+	display: block;
+	margin-top: 30pt;
+	margin-left: 0;
+}
+series
+{
+	display: block;
+	color: #0000FF;
+	margin-top: 15pt;
+	margin-left:10pt;
+	font-size: 20pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+type
+{
+	color: #0000FF;
+	font-size: 18pt;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+htr_name, pdf_name, disspation, value_range, tolerance_options
+{
+	display: block;
+	color: #000000;
+	margin-left: 30pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+
+}
+power_rating {
+	display: inline-block;
+	color: #0000FF;
+	margin-left: 20pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;		
+}
+res_from {
+	display: inline-block;
+	margin-left: 10pt;
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;		
+}
+htr_equivalents:before {
+	font-size: 14pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;	
+	content: 'HTR Equivalent: ';
+	margin-left: 20pt;
+}
+
+disspation:before {
+	content: 'Disspiation: ';
+}
+htr_name:before {
+	content: 'HTR Name: ';
+}
+value_range:before {
+	content: 'Value Range: ';
+}
+tolerance_options:before {
+	content: 'Tolerance Options: ';
+}
+pdf_name:before {
+	content: 'PDF Link: ';
+}
+
+
+</xsl:stylesheet>

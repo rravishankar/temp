@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="HTR_CrossRef_best.css"?>
+	<allcompetitors>
+	<competitors>
+		<manufacturer>ATE</manufacturer>
+		<text>ATE</text>
+		<value>ATE</value>
+		<products>
+			<series>3SM</series>
+			<text>3SM</text>
+			<value>3SM</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CS</series>
+			<text>CS</text>
+			<value>CS</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SR</series>
+			<text>SR</text>
+			<value>SR</value>
+			<htr_equivalents>
+				<htr_name>HSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Symmetry-Resistors-HSR-English.pdf</pdf_name>
+				<disspation>8.25W to 25W</disspation>
+				<value_range>10K to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>FUTABA</manufacturer>
+		<text>FUTABA</text>
+		<value>FUTABA</value>
+		<products>
+			<series>MPC</series>
+			<text>MPC</text>
+			<value>MPC</value>
+			<htr_equivalents>
+				<htr_name>BR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-BR-English.pdf</pdf_name>
+				<disspation>2W to 10W</disspation>
+				<value_range>R01 to 1.2</value_range>
+				<tolerance_options>3%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>HUNTINGTON</manufacturer>
+		<text>HUNTINGTON</text>
+		<value>HUNTINGTON</value>
+		<products>
+			<series>ALSR</series>
+			<text>ALSR</text>
+			<value>ALSR</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CMS</series>
+			<text>CMS</text>
+			<value>CMS</value>
+			<htr_equivalents>
+				<htr_name>HSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Symmetry-Resistors-HSR-English.pdf</pdf_name>
+				<disspation>8.25W to 25W</disspation>
+				<value_range>10K to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FSE</series>
+			<text>FSE</text>
+			<value>FSE</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FSWL/FST</series>
+			<text>FSWL/FST</text>
+			<value>FSWL/FST</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>K SERIES</series>
+			<text>K SERIES</text>
+			<value>K SERIES</value>
+			<htr_equivalents>
+				<htr_name>OF</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OF-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MTL 1A TO MTL 10</series>
+			<text>MTL 1A TO MTL 10</text>
+			<value>MTL 1A TO MTL 10</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PC 30-40</series>
+			<text>PC 30-40</text>
+			<value>PC 30-40</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PC3-25</series>
+			<text>PC3-25</text>
+			<value>PC3-25</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PCR</series>
+			<text>PCR</text>
+			<value>PCR</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PCRC</series>
+			<text>PCRC</text>
+			<value>PCRC</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PCRL</series>
+			<text>PCRL</text>
+			<value>PCRL</value>
+			<htr_equivalents>
+				<htr_name>HMVL</htr_name>
+				<pdf_name>http://htrindia.com/wp-content/uploads/sites/3/2013/12/HMVL.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R004 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SM Series</series>
+			<text>SM Series</text>
+			<value>SM Series</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SML</series>
+			<text>SML</text>
+			<value>SML</value>
+			<htr_equivalents>
+				<htr_name>HCALS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-Resistors-HCALS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>IRC/WELWYN</manufacturer>
+		<text>IRC/WELWYN</text>
+		<value>IRC/WELWYN</value>
+		<products>
+			<series>AS-SM/WA80Z</series>
+			<text>AS-SM/WA80Z</text>
+			<value>AS-SM/WA80Z</value>
+			<htr_equivalents>
+				<htr_name>HIAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HIAS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 22K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>LOB</series>
+			<text>LOB</text>
+			<value>LOB</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>OAR</series>
+			<text>OAR</text>
+			<value>OAR</value>
+			<htr_equivalents>
+				<htr_name>HEW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-HEW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R0025 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>OARS</series>
+			<text>OARS</text>
+			<value>OARS</value>
+			<htr_equivalents>
+				<htr_name>HOS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HOS-English.pdf</pdf_name>
+				<disspation>2W to 5W</disspation>
+				<value_range>R001 to R05</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>OARS-XP</series>
+			<text>OARS-XP</text>
+			<value>OARS-XP</value>
+			<htr_equivalents>
+				<htr_name>HOS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HOS-English.pdf</pdf_name>
+				<disspation>2W to 5W</disspation>
+				<value_range>R001 to R05</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>OARSZ</series>
+			<text>OARSZ</text>
+			<value>OARSZ</value>
+			<htr_equivalents>
+				<htr_name>HOS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HOS-English.pdf</pdf_name>
+				<disspation>2W to 5W</disspation>
+				<value_range>R001 to R05</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PLO/LPW</series>
+			<text>PLO/LPW</text>
+			<value>PLO/LPW</value>
+			<htr_equivalents>
+				<htr_name>HCAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HCAL-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R002 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PPW/CAW</series>
+			<text>PPW/CAW</text>
+			<value>PPW/CAW</value>
+			<htr_equivalents>
+				<htr_name>HCW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCW-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PW</series>
+			<text>PW</text>
+			<value>PW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PW-20 TO PW-40</series>
+			<text>PW-20 TO PW-40</text>
+			<value>PW-20 TO PW-40</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWR</series>
+			<text>PWR</text>
+			<value>PWR</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWR/SQM</series>
+			<text>PWR/SQM</text>
+			<value>PWR/SQM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWR/SRM</series>
+			<text>PWR/SRM</text>
+			<value>PWR/SRM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWRL</series>
+			<text>PWRL</text>
+			<value>PWRL</value>
+			<htr_equivalents>
+				<htr_name>HMVL</htr_name>
+				<pdf_name>http://htrindia.com/wp-content/uploads/sites/3/2013/12/HMVL.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R004 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWW/CW</series>
+			<text>PWW/CW</text>
+			<value>PWW/CW</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SPP</series>
+			<text>SPP</text>
+			<value>SPP</value>
+			<htr_equivalents>
+				<htr_name>HFA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFA-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R1 to 51K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>W-3123</series>
+			<text>W-3123</text>
+			<value>W-3123</value>
+			<htr_equivalents>
+				<htr_name>HTA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HTA-English.pdf</pdf_name>
+				<disspation>0.75W to 12W</disspation>
+				<value_range>R01 to 100K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WA 84F</series>
+			<text>WA 84F</text>
+			<value>WA 84F</value>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WA 87/T</series>
+			<text>WA 87/T</text>
+			<value>WA 87/T</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WP-S</series>
+			<text>WP-S</text>
+			<value>WP-S</value>
+			<htr_equivalents>
+				<htr_name>HAA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HAA-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 12K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WP-S/WA80/AS/W30</series>
+			<text>WP-S/WA80/AS/W30</text>
+			<value>WP-S/WA80/AS/W30</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WSM2/WSM3</series>
+			<text>WSM2/WSM3</text>
+			<value>WSM2/WSM3</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>ISABELLENHUTTE</manufacturer>
+		<text>ISABELLENHUTTE</text>
+		<value>ISABELLENHUTTE</value>
+		<products>
+			<series>BAS</series>
+			<text>BAS</text>
+			<value>BAS</value>
+			<htr_equivalents>
+				<htr_name>HEB</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/05/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HEB-English.pdf</pdf_name>
+				<disspation>6W to 15W</disspation>
+				<value_range>R0001 to R001</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVB</series>
+			<text>BVB</text>
+			<value>BVB</value>
+			<htr_equivalents>
+				<htr_name>HBE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-%E2%80%93-Products-%E2%80%93-Current-Sense-Resistors-%E2%80%93-Electron-Beam-Welded-%E2%80%93-HBE-English.pdf</pdf_name>
+				<disspation>2W to 7W</disspation>
+				<value_range>R0002 to R005</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVE</series>
+			<text>BVE</text>
+			<value>BVE</value>
+			<htr_equivalents>
+				<htr_name>HEE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-%E2%80%93-Products-%E2%80%93-Electron-Beam-Welded-%E2%80%93-Current-Sense-Resistors-%E2%80%93-HEE-English.pdf</pdf_name>
+				<disspation>4W to 10W</disspation>
+				<value_range>R0001 to R002</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVH</series>
+			<text>BVH</text>
+			<value>BVH</value>
+			<htr_equivalents>
+				<htr_name>HHE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-%E2%80%93-Products-%E2%80%93-Current-Sense-Resistors-%E2%80%93-Electron-Beam-Welded-%E2%80%93-HHE-English.pdf</pdf_name>
+				<disspation>5W</disspation>
+				<value_range>R0003 to R002</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVR</series>
+			<text>BVR</text>
+			<value>BVR</value>
+			<htr_equivalents>
+				<htr_name>HRE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/01/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HRE-English.pdf</pdf_name>
+				<disspation>3W to 5W</disspation>
+				<value_range>R0002 to R003</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVS</series>
+			<text>BVS</text>
+			<value>BVS</value>
+			<htr_equivalents>
+				<htr_name>HSE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HSE-English.pdf</pdf_name>
+				<disspation>2W to 5W</disspation>
+				<value_range>R0002 to R005</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>BVT</series>
+			<text>BVT</text>
+			<value>BVT</value>
+			<htr_equivalents>
+				<htr_name>HTE</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HTE-English.pdf</pdf_name>
+				<disspation>1W to 3W</disspation>
+				<value_range>R0003 to R01</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>KRAH-RWI</manufacturer>
+		<text>KRAH-RWI</text>
+		<value>KRAH-RWI</value>
+		<products>
+			<series>BR</series>
+			<text>BR</text>
+			<value>BR</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FH</series>
+			<text>FH</text>
+			<value>FH</value>
+			<htr_equivalents>
+				<htr_name>HSV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSV-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FX</series>
+			<text>FX</text>
+			<value>FX</value>
+			<htr_equivalents>
+				<htr_name>HSVAU</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/01/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSVAU-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KBD</series>
+			<text>KBD</text>
+			<value>KBD</value>
+			<htr_equivalents>
+				<htr_name>HEAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HEAL-English.pdf</pdf_name>
+				<disspation>2.5W to 12W</disspation>
+				<value_range>R0025 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KFD</series>
+			<text>KFD</text>
+			<value>KFD</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KRGC</series>
+			<text>KRGC</text>
+			<value>KRGC</value>
+			<htr_equivalents>
+				<htr_name>BR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-BR-English.pdf</pdf_name>
+				<disspation>2W to 10W</disspation>
+				<value_range>R01 to 1.2</value_range>
+				<tolerance_options>3%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KRGG</series>
+			<text>KRGG</text>
+			<value>KRGG</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KRX</series>
+			<text>KRX</text>
+			<value>KRX</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KRX-27-4H</series>
+			<text>KRX-27-4H</text>
+			<value>KRX-27-4H</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SFD</series>
+			<text>SFD</text>
+			<value>SFD</value>
+			<htr_equivalents>
+				<htr_name>HFA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFA-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R1 to 51K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SFR</series>
+			<text>SFR</text>
+			<value>SFR</value>
+			<htr_equivalents>
+				<htr_name>HFP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFP-English.pdf</pdf_name>
+				<disspation>2.5W to 8W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SKS</series>
+			<text>SKS</text>
+			<value>SKS</value>
+			<htr_equivalents>
+				<htr_name>HANS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/04/HTR-India-Products-Automotive-Noise-Suppressor-Resistor-HANS-English.pdf</pdf_name>
+				<disspation>Customized</disspation>
+				<value_range>Customized</value_range>
+				<tolerance_options>5%-20%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ZDFI</series>
+			<text>ZDFI</text>
+			<value>ZDFI</value>
+			<htr_equivalents>
+				<htr_name>HFO</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFO-English.pdf</pdf_name>
+				<disspation>40W to 125W</disspation>
+				<value_range>R1 to 33K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ZS</series>
+			<text>ZS</text>
+			<value>ZS</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ZSB</series>
+			<text>ZSB</text>
+			<value>ZSB</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>MEGGITT</manufacturer>
+		<text>MEGGITT</text>
+		<value>MEGGITT</value>
+		<products>
+			<series>ES/ER/ERV</series>
+			<text>ES/ER/ERV</text>
+			<value>ES/ER/ERV</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FCA/FCB</series>
+			<text>FCA/FCB</text>
+			<value>FCA/FCB</value>
+			<htr_equivalents>
+				<htr_name>HFP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFP-English.pdf</pdf_name>
+				<disspation>2.5W to 8W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FCX</series>
+			<text>FCX</text>
+			<value>FCX</value>
+			<htr_equivalents>
+				<htr_name>HFA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFA-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R1 to 51K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FKN</series>
+			<text>FKN</text>
+			<value>FKN</value>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FSQ</series>
+			<text>FSQ</text>
+			<value>FSQ</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNP</series>
+			<text>KNP</text>
+			<value>KNP</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SBC</series>
+			<text>SBC</text>
+			<value>SBC</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SBCH/SBCHE</series>
+			<text>SBCH/SBCHE</text>
+			<value>SBCH/SBCHE</value>
+			<htr_equivalents>
+				<htr_name>HSVAU</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/01/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSVAU-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SBCV</series>
+			<text>SBCV</text>
+			<value>SBCV</value>
+			<htr_equivalents>
+				<htr_name>HSV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSV-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQM</series>
+			<text>SQM</text>
+			<value>SQM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQP</series>
+			<text>SQP</text>
+			<value>SQP</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQZ</series>
+			<text>SQZ</text>
+			<value>SQZ</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>MICRON</manufacturer>
+		<text>MICRON</text>
+		<value>MICRON</value>
+		<products>
+			<series>FRW</series>
+			<text>FRW</text>
+			<value>FRW</value>
+			<htr_equivalents>
+				<htr_name>FRC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-FRC-English.pdf</pdf_name>
+				<disspation>1W to 3W</disspation>
+				<value_range>10.0 to 750.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MHS &amp; MFS</series>
+			<text>MHS &amp; MFS</text>
+			<value>MHS &amp; MFS</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MNS &amp; MNG</series>
+			<text>MNS &amp; MNG</text>
+			<value>MNS &amp; MNG</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MSG</series>
+			<text>MSG</text>
+			<value>MSG</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MSS</series>
+			<text>MSS</text>
+			<value>MSS</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MVS</series>
+			<text>MVS</text>
+			<value>MVS</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MXS, MPS &amp; MZS</series>
+			<text>MXS, MPS &amp; MZS</text>
+			<value>MXS, MPS &amp; MZS</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>MODULOHM/DANOTHERM</manufacturer>
+		<text>MODULOHM/DANOTHERM</text>
+		<value>MODULOHM/DANOTHERM</value>
+		<products>
+			<series>C-1</series>
+			<text>C-1</text>
+			<value>C-1</value>
+			<htr_equivalents>
+				<htr_name>HMW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/05/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMW-English.pdf</pdf_name>
+				<disspation>5W to 9W</disspation>
+				<value_range>R18 to 18K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MI-A-1</series>
+			<text>MI-A-1</text>
+			<value>MI-A-1</value>
+			<htr_equivalents>
+				<htr_name>OW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OW-English.pdf</pdf_name>
+				<disspation>0.6W to 1.5W</disspation>
+				<value_range>R015 to R16</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>OHMITE</manufacturer>
+		<text>OHMITE</text>
+		<value>OHMITE</value>
+		<products>
+			<series>10 SERIES</series>
+			<text>10 SERIES</text>
+			<value>10 SERIES</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>40 SERIES/ 80 SERIES</series>
+			<text>40 SERIES/ 80 SERIES</text>
+			<value>40 SERIES/ 80 SERIES</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>60 SERIES</series>
+			<text>60 SERIES</text>
+			<value>60 SERIES</value>
+			<htr_equivalents>
+				<htr_name>OP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistors-OP-English.pdf</pdf_name>
+				<disspation>0.5W to 5W</disspation>
+				<value_range>R0015 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>60 SERIES (4 TERMINAL)</series>
+			<text>60 SERIES (4 TERMINAL)</text>
+			<value>60 SERIES (4 TERMINAL)</value>
+			<htr_equivalents>
+				<htr_name>OFSC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OFSC-English.pdf</pdf_name>
+				<disspation>5W to 10W</disspation>
+				<value_range>R00012 to R003</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>G</series>
+			<text>G</text>
+			<value>G</value>
+			<htr_equivalents>
+				<htr_name>HSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Symmetry-Resistors-HSR-English.pdf</pdf_name>
+				<disspation>8.25W to 25W</disspation>
+				<value_range>10K to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RW</series>
+			<text>RW</text>
+			<value>RW</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>TUW SERIES</series>
+			<text>TUW SERIES</text>
+			<value>TUW SERIES</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>TVM</series>
+			<text>TVM</text>
+			<value>TVM</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>TWW SERIES</series>
+			<text>TWW SERIES</text>
+			<value>TWW SERIES</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WL</series>
+			<text>WL</text>
+			<value>WL</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>PHOENIX</manufacturer>
+		<text>PHOENIX</text>
+		<value>PHOENIX</value>
+		<products>
+			<series>AC</series>
+			<text>AC</text>
+			<value>AC</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ACS</series>
+			<text>ACS</text>
+			<value>ACS</value>
+			<htr_equivalents>
+				<htr_name>HAA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HAA-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 12K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>AMW</series>
+			<text>AMW</text>
+			<value>AMW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>LOR</series>
+			<text>LOR</text>
+			<value>LOR</value>
+			<htr_equivalents>
+				<htr_name>HEAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HEAL-English.pdf</pdf_name>
+				<disspation>2.5W to 12W</disspation>
+				<value_range>R0025 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>NSR</series>
+			<text>NSR</text>
+			<value>NSR</value>
+			<htr_equivalents>
+				<htr_name>HANS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/04/HTR-India-Products-Automotive-Noise-Suppressor-Resistor-HANS-English.pdf</pdf_name>
+				<disspation>Customized</disspation>
+				<value_range>Customized</value_range>
+				<tolerance_options>5%-20%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RMW</series>
+			<text>RMW</text>
+			<value>RMW</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SMW</series>
+			<text>SMW</text>
+			<value>SMW</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>R.G.ALLEN</manufacturer>
+		<text>R.G.ALLEN</text>
+		<value>R.G.ALLEN</value>
+		<products>
+			<series>KNH</series>
+			<text>KNH</text>
+			<value>KNH</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNP RP - TYPE 'U'</series>
+			<text>KNP RP - TYPE 'U'</text>
+			<value>KNP RP - TYPE 'U'</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNP RP - TYPE 'V'</series>
+			<text>KNP RP - TYPE 'V'</text>
+			<value>KNP RP - TYPE 'V'</value>
+			<htr_equivalents>
+				<htr_name>HTA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HTA-English.pdf</pdf_name>
+				<disspation>0.75W to 12W</disspation>
+				<value_range>R01 to 100K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNS</series>
+			<text>KNS</text>
+			<value>KNS</value>
+			<htr_equivalents>
+				<htr_name>HIP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIP-English.pdf</pdf_name>
+				<disspation>3W to 10W</disspation>
+				<value_range>R01 to 90K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MPC</series>
+			<text>MPC</text>
+			<value>MPC</value>
+			<htr_equivalents>
+				<htr_name>BR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-BR-English.pdf</pdf_name>
+				<disspation>2W to 10W</disspation>
+				<value_range>R01 to 1.2</value_range>
+				<tolerance_options>3%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RER/RZG</series>
+			<text>RER/RZG</text>
+			<value>RER/RZG</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SPS</series>
+			<text>SPS</text>
+			<value>SPS</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQ</series>
+			<text>SQ</text>
+			<value>SQ</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQC</series>
+			<text>SQC</text>
+			<value>SQC</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQHG/SQH</series>
+			<text>SQHG/SQH</text>
+			<value>SQHG/SQH</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQM</series>
+			<text>SQM</text>
+			<value>SQM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQZB/SQZC/SQZD</series>
+			<text>SQZB/SQZC/SQZD</text>
+			<value>SQZB/SQZC/SQZD</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>RCD</manufacturer>
+		<text>RCD</text>
+		<value>RCD</value>
+		<products>
+			<series>CD</series>
+			<text>CD</text>
+			<value>CD</value>
+			<htr_equivalents>
+				<htr_name>HSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Symmetry-Resistors-HSR-English.pdf</pdf_name>
+				<disspation>8.25W to 25W</disspation>
+				<value_range>10K to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>EW</series>
+			<text>EW</text>
+			<value>EW</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MW</series>
+			<text>MW</text>
+			<value>MW</value>
+			<htr_equivalents>
+				<htr_name>HIAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HIAS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 22K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MW-M27/MWM3S/PRM</series>
+			<text>MW-M27/MWM3S/PRM</text>
+			<value>MW-M27/MWM3S/PRM</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>OA</series>
+			<text>OA</text>
+			<value>OA</value>
+			<htr_equivalents>
+				<htr_name>HEW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-HEW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R0025 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PR</series>
+			<text>PR</text>
+			<value>PR</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PV</series>
+			<text>PV</text>
+			<value>PV</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PW</series>
+			<text>PW</text>
+			<value>PW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PW-FF</series>
+			<text>PW-FF</text>
+			<value>PW-FF</value>
+			<htr_equivalents>
+				<htr_name>FRC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-FRC-English.pdf</pdf_name>
+				<disspation>1W to 3W</disspation>
+				<value_range>10.0 to 750.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PW-X</series>
+			<text>PW-X</text>
+			<value>PW-X</value>
+			<htr_equivalents>
+				<htr_name>HCW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCW-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWL/PWHM</series>
+			<text>PWL/PWHM</text>
+			<value>PWL/PWHM</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWLL</series>
+			<text>PWLL</text>
+			<value>PWLL</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PWV</series>
+			<text>PWV</text>
+			<value>PWV</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RW</series>
+			<text>RW</text>
+			<value>RW</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RW-FF</series>
+			<text>RW-FF</text>
+			<value>RW-FF</value>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RW 100</series>
+			<text>RW 100</text>
+			<value>RW 100</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>T</series>
+			<text>T</text>
+			<value>T</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ULV</series>
+			<text>ULV</text>
+			<value>ULV</value>
+			<htr_equivalents>
+				<htr_name>HCAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HCAL-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R002 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>RIEDON</manufacturer>
+		<text>RIEDON</text>
+		<value>RIEDON</value>
+		<products>
+			<series>MS/MSR</series>
+			<text>MS/MSR</text>
+			<value>MS/MSR</value>
+			<htr_equivalents>
+				<htr_name>HEW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-HEW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R0025 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>MT</series>
+			<text>MT</text>
+			<value>MT</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>S</series>
+			<text>S</text>
+			<value>S</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>TSC</series>
+			<text>TSC</text>
+			<value>TSC</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>UB/UT</series>
+			<text>UB/UT</text>
+			<value>UB/UT</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>UP-3</series>
+			<text>UP-3</text>
+			<value>UP-3</value>
+			<htr_equivalents>
+				<htr_name>OFSC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OFSC-English.pdf</pdf_name>
+				<disspation>5W to 10W</disspation>
+				<value_range>R00012 to R003</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>UV</series>
+			<text>UV</text>
+			<value>UV</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>UW</series>
+			<text>UW</text>
+			<value>UW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>ROYAL OHM</manufacturer>
+		<text>ROYAL OHM</text>
+		<value>ROYAL OHM</value>
+		<products>
+			<series>KNP</series>
+			<text>KNP</text>
+			<value>KNP</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNP(FUSIBLE)</series>
+			<text>KNP(FUSIBLE)</text>
+			<value>KNP(FUSIBLE)</value>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNS</series>
+			<text>KNS</text>
+			<value>KNS</value>
+			<htr_equivalents>
+				<htr_name>HIP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIP-English.pdf</pdf_name>
+				<disspation>3W to 10W</disspation>
+				<value_range>R01 to 90K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PFAS/PFAT</series>
+			<text>PFAS/PFAT</text>
+			<value>PFAS/PFAT</value>
+			<htr_equivalents>
+				<htr_name>BR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-BR-English.pdf</pdf_name>
+				<disspation>2W to 10W</disspation>
+				<value_range>R01 to 1.2</value_range>
+				<tolerance_options>3%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRM</series>
+			<text>PRM</text>
+			<value>PRM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRS</series>
+			<text>PRS</text>
+			<value>PRS</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRT/PRU</series>
+			<text>PRT/PRU</text>
+			<value>PRT/PRU</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRW</series>
+			<text>PRW</text>
+			<value>PRW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRWC</series>
+			<text>PRWC</text>
+			<value>PRWC</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRWI</series>
+			<text>PRWI</text>
+			<value>PRWI</value>
+			<htr_equivalents>
+				<htr_name>HSVAU</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/01/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSVAU-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRZA/PRZC/PRZD</series>
+			<text>PRZA/PRZC/PRZD</text>
+			<value>PRZA/PRZC/PRZD</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>QL/QH</series>
+			<text>QL/QH</text>
+			<value>QL/QH</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>QR/QRZG</series>
+			<text>QR/QRZG</text>
+			<value>QR/QRZG</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>TY-OHM</manufacturer>
+		<text>TY-OHM</text>
+		<value>TY-OHM</value>
+		<products>
+			<series>ARW</series>
+			<text>ARW</text>
+			<value>ARW</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CSR</series>
+			<text>CSR</text>
+			<value>CSR</value>
+			<htr_equivalents>
+				<htr_name>HEW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-HEW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R0025 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FKN</series>
+			<text>FKN</text>
+			<value>FKN</value>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>FSQ</series>
+			<text>FSQ</text>
+			<value>FSQ</value>
+			<htr_equivalents>
+				<htr_name>FRC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-FRC-English.pdf</pdf_name>
+				<disspation>1W to 3W</disspation>
+				<value_range>10.0 to 750.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNH</series>
+			<text>KNH</text>
+			<value>KNH</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNP/NKNP</series>
+			<text>KNP/NKNP</text>
+			<value>KNP/NKNP</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SMW</series>
+			<text>SMW</text>
+			<value>SMW</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SPS</series>
+			<text>SPS</text>
+			<value>SPS</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQH/SQHG</series>
+			<text>SQH/SQHG</text>
+			<value>SQH/SQHG</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQM</series>
+			<text>SQM</text>
+			<value>SQM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQP</series>
+			<text>SQP</text>
+			<value>SQP</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQZ</series>
+			<text>SQZ</text>
+			<value>SQZ</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WOR</series>
+			<text>WOR</text>
+			<value>WOR</value>
+			<htr_equivalents>
+				<htr_name>OF</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OF-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>UNI-OHM</manufacturer>
+		<text>UNI-OHM</text>
+		<value>UNI-OHM</value>
+		<products>
+			<series>KNP</series>
+			<text>KNP</text>
+			<value>KNP</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KNS</series>
+			<text>KNS</text>
+			<value>KNS</value>
+			<htr_equivalents>
+				<htr_name>HIP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIP-English.pdf</pdf_name>
+				<disspation>3W to 10W</disspation>
+				<value_range>R01 to 90K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRM</series>
+			<text>PRM</text>
+			<value>PRM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRS</series>
+			<text>PRS</text>
+			<value>PRS</value>
+			<htr_equivalents>
+				<htr_name>HCV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCV-With-Bracket-English.pdf</pdf_name>
+				<disspation>7W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRT/PRU</series>
+			<text>PRT/PRU</text>
+			<value>PRT/PRU</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRVA/PRVB/PRZ</series>
+			<text>PRVA/PRVB/PRZ</text>
+			<value>PRVA/PRVB/PRZ</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRW</series>
+			<text>PRW</text>
+			<value>PRW</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>PRWC</series>
+			<text>PRWC</text>
+			<value>PRWC</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>QL/QH</series>
+			<text>QL/QH</text>
+			<value>QL/QH</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>QR/QRZG</series>
+			<text>QR/QRZG</text>
+			<value>QR/QRZG</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>VISHAY</manufacturer>
+		<text>VISHAY</text>
+		<value>VISHAY</value>
+		<products>
+			<series>AC/CW RS/NS ESS/ESN EGS/EGN</series>
+			<text>AC/CW RS/NS ESS/ESN EGS/EGN</text>
+			<value>AC/CW RS/NS ESS/ESN EGS/EGN</value>
+			<htr_equivalents>
+				<htr_name>VHIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-VHIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CA</series>
+			<text>CA</text>
+			<value>CA</value>
+			<htr_equivalents>
+				<htr_name>HFA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFA-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R1 to 51K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CP</series>
+			<text>CP</text>
+			<value>CP</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CP Quick Connect</series>
+			<text>CP Quick Connect</text>
+			<value>CP Quick Connect</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CPCC/CPCP</series>
+			<text>CPCC/CPCP</text>
+			<value>CPCC/CPCP</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CPCL</series>
+			<text>CPCL</text>
+			<value>CPCL</value>
+			<htr_equivalents>
+				<htr_name>HMVL</htr_name>
+				<pdf_name>http://htrindia.com/wp-content/uploads/sites/3/2013/12/HMVL.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R004 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CPL</series>
+			<text>CPL</text>
+			<value>CPL</value>
+			<htr_equivalents>
+				<htr_name>HCAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HCAL-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R002 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CPR</series>
+			<text>CPR</text>
+			<value>CPR</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CPW/CPWN</series>
+			<text>CPW/CPWN</text>
+			<value>CPW/CPWN</value>
+			<htr_equivalents>
+				<htr_name>HCW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCW-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>HLZ/ZBS</series>
+			<text>HLZ/ZBS</text>
+			<value>HLZ/ZBS</value>
+			<htr_equivalents>
+				<htr_name>RSR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-RSR-English.pdf</pdf_name>
+				<disspation>40W to 500W</disspation>
+				<value_range>R05 to 18.0</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KKA</series>
+			<text>KKA</text>
+			<value>KKA</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KKE</series>
+			<text>KKE</text>
+			<value>KKE</value>
+			<htr_equivalents>
+				<htr_name>HSV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSV-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>LVR</series>
+			<text>LVR</text>
+			<value>LVR</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>NSR</series>
+			<text>NSR</text>
+			<value>NSR</value>
+			<htr_equivalents>
+				<htr_name>HANS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/04/HTR-India-Products-Automotive-Noise-Suppressor-Resistor-HANS-English.pdf</pdf_name>
+				<disspation>Customized</disspation>
+				<value_range>Customized</value_range>
+				<tolerance_options>5%-20%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SKF/CPS</series>
+			<text>SKF/CPS</text>
+			<value>SKF/CPS</value>
+			<htr_equivalents>
+				<htr_name>HFP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFP-English.pdf</pdf_name>
+				<disspation>2.5W to 8W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SPR-2093</series>
+			<text>SPR-2093</text>
+			<value>SPR-2093</value>
+			<htr_equivalents>
+				<htr_name>OFSC</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OFSC-English.pdf</pdf_name>
+				<disspation>5W to 10W</disspation>
+				<value_range>R00012 to R003</value_range>
+				<tolerance_options>1%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SR</series>
+			<text>SR</text>
+			<value>SR</value>
+			<htr_equivalents>
+				<htr_name>HEW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-HEW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R0025 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WSBS8518</series>
+			<text>WSBS8518</text>
+			<value>WSBS8518</value>
+			<htr_equivalents>
+				<htr_name>HEB</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/05/HTR-India-Products-Current-Sense-Resistors-Electron-Beam-Welded-HEB-English.pdf</pdf_name>
+				<disspation>6W to 15W</disspation>
+				<value_range>R0001 to R001</value_range>
+				<tolerance_options>0.5%-5%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WSN/WSC 4527 and 6927</series>
+			<text>WSN/WSC 4527 and 6927</text>
+			<value>WSN/WSC 4527 and 6927</value>
+			<htr_equivalents>
+				<htr_name>HCALS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-Resistors-HCALS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>WSZ</series>
+			<text>WSZ</text>
+			<value>WSZ</value>
+			<htr_equivalents>
+				<htr_name>HIAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HIAS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 22K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>Z-300 BSI</series>
+			<text>Z-300 BSI</text>
+			<value>Z-300 BSI</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>Z-302 RS</series>
+			<text>Z-302 RS</text>
+			<value>Z-302 RS</value>
+			<htr_equivalents>
+				<htr_name>HFW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFW-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>ZW/FST/HL/NHL</series>
+			<text>ZW/FST/HL/NHL</text>
+			<value>ZW/FST/HL/NHL</value>
+			<htr_equivalents>
+				<htr_name>HIR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIR-English.pdf</pdf_name>
+				<disspation>10W to 500W</disspation>
+				<value_range>R22 to 100K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>VITROHM</manufacturer>
+		<text>VITROHM</text>
+		<value>VITROHM</value>
+		<products>
+			<series>BWL</series>
+			<text>BWL</text>
+			<value>BWL</value>
+			<htr_equivalents>
+				<htr_name>RL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-RL-English.pdf</pdf_name>
+				<disspation>0.5W to 10W</disspation>
+				<value_range>R0015 to R8</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>CRF</series>
+			<text>CRF</text>
+			<value>CRF</value>
+			<htr_equivalents>
+				<htr_name>FRS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Silicone-Coated-Resistors-Wire-Wound-Resistors-FRS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>10.0 to 100.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KC</series>
+			<text>KC</text>
+			<value>KC</value>
+			<htr_equivalents>
+				<htr_name>HFA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFA-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R1 to 51K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KH(206-0 TO 218-0)</series>
+			<text>KH(206-0 TO 218-0)</text>
+			<value>KH(206-0 TO 218-0)</value>
+			<htr_equivalents>
+				<htr_name>HSVAU</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/01/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSVAU-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+			<htr_equivalents>
+				<htr_name>HSVA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSVA-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KH(206-8 TO 218-8)</series>
+			<text>KH(206-8 TO 218-8)</text>
+			<value>KH(206-8 TO 218-8)</value>
+			<htr_equivalents>
+				<htr_name>HEA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HEA-English.pdf</pdf_name>
+				<disspation>1W to 17W</disspation>
+				<value_range>R025 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KN(350-8 TO 354-8)</series>
+			<text>KN(350-8 TO 354-8)</text>
+			<value>KN(350-8 TO 354-8)</value>
+			<htr_equivalents>
+				<htr_name>HEAL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-HEAL-English.pdf</pdf_name>
+				<disspation>2.5W to 12W</disspation>
+				<value_range>R0025 to R2</value_range>
+				<tolerance_options>0.5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KN(350 TO 352-0)</series>
+			<text>KN(350 TO 352-0)</text>
+			<value>KN(350 TO 352-0)</value>
+			<htr_equivalents>
+				<htr_name>OA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistors-OA-English.pdf</pdf_name>
+				<disspation>1W to 3W</disspation>
+				<value_range>R003 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KN350-009 TO 352-011</series>
+			<text>KN350-009 TO 352-011</text>
+			<value>KN350-009 TO 352-011</value>
+			<htr_equivalents>
+				<htr_name>OP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistors-OP-English.pdf</pdf_name>
+				<disspation>0.5W to 5W</disspation>
+				<value_range>R0015 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KP</series>
+			<text>KP</text>
+			<value>KP</value>
+			<htr_equivalents>
+				<htr_name>HFP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HFP-English.pdf</pdf_name>
+				<disspation>2.5W to 8W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KV</series>
+			<text>KV</text>
+			<value>KV</value>
+			<htr_equivalents>
+				<htr_name>HSV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HSV-English.pdf</pdf_name>
+				<disspation>4W to 17W</disspation>
+				<value_range>R04 to 82K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KWA</series>
+			<text>KWA</text>
+			<value>KWA</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KWP</series>
+			<text>KWP</text>
+			<value>KWP</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>KWV</series>
+			<text>KWV</text>
+			<value>KWV</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>LPS</series>
+			<text>LPS</text>
+			<value>LPS</value>
+			<htr_equivalents>
+				<htr_name>OF</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Current-Sense-Open-Frame-Resistor-OF-English.pdf</pdf_name>
+				<disspation>1W to 10W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RWC</series>
+			<text>RWC</text>
+			<value>RWC</value>
+			<htr_equivalents>
+				<htr_name>HCAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HCAS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R1 to 5600.0</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RWN</series>
+			<text>RWN</text>
+			<value>RWN</value>
+			<htr_equivalents>
+				<htr_name>HCALS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-Resistors-HCALS-English.pdf</pdf_name>
+				<disspation>2W to 3W</disspation>
+				<value_range>R001 to R1</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RX/CR</series>
+			<text>RX/CR</text>
+			<value>RX/CR</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>RZC/RZI/RZF</series>
+			<text>RZC/RZI/RZF</text>
+			<value>RZC/RZI/RZF</value>
+			<htr_equivalents>
+				<htr_name>HIAS</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Surface-Mount-HIAS-English.pdf</pdf_name>
+				<disspation>1W to 5W</disspation>
+				<value_range>R01 to 22K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SLR</series>
+			<text>SLR</text>
+			<value>SLR</value>
+			<htr_equivalents>
+				<htr_name>BR</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Current-Sense-Resistors-Ceramic-Encased-Resistor-BR-English.pdf</pdf_name>
+				<disspation>2W to 10W</disspation>
+				<value_range>R01 to 1.2</value_range>
+				<tolerance_options>3%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+	<competitors>
+		<manufacturer>YAGEO</manufacturer>
+		<text>YAGEO</text>
+		<value>YAGEO</value>
+		<products>
+			<series>KNP/NKN</series>
+			<text>KNP/NKN</text>
+			<value>KNP/NKN</value>
+			<htr_equivalents>
+				<htr_name>HIA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Silicone-Coated-Resistors-HIA-English.pdf</pdf_name>
+				<disspation>0.5W to 20W</disspation>
+				<value_range>R01 to 120K</value_range>
+				<tolerance_options>0.25%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>NSP</series>
+			<text>NSP</text>
+			<value>NSP</value>
+			<htr_equivalents>
+				<htr_name>HCW</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCW-English.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQH/NSH</series>
+			<text>SQH/NSH</text>
+			<value>SQH/NSH</value>
+			<htr_equivalents>
+				<htr_name>HCL</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCL-English.pdf</pdf_name>
+				<disspation>10W to 40W</disspation>
+				<value_range>R1 to 68K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQM/NSM</series>
+			<text>SQM/NSM</text>
+			<value>SQM/NSM</value>
+			<htr_equivalents>
+				<htr_name>HMV</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2014/03/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HMV-English.pdf</pdf_name>
+				<disspation>2.5W to 15W</disspation>
+				<value_range>R04 to 36K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQP</series>
+			<text>SQP</text>
+			<value>SQP</value>
+			<htr_equivalents>
+				<htr_name>HCA</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCA-English1.pdf</pdf_name>
+				<disspation>1W to 20W</disspation>
+				<value_range>R05 to 56K</value_range>
+				<tolerance_options>1%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+		<products>
+			<series>SQZ</series>
+			<text>SQZ</text>
+			<value>SQZ</value>
+			<htr_equivalents>
+				<htr_name>HCP</htr_name>
+				<pdf_name>http://htr-india.com/wp-content/uploads/sites/3/2013/12/HTR-India-Products-Wire-Wound-Resistors-Ceramic-Encased-Resistor-HCP-English.pdf</pdf_name>
+				<disspation>3W to 20W</disspation>
+				<value_range>R1 to 56K</value_range>
+				<tolerance_options>5%-10%</tolerance_options>
+			</htr_equivalents>
+		</products>
+	</competitors>
+			
+</allcompetitors>
